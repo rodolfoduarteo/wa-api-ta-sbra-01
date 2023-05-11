@@ -5953,11 +5953,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\ta-treinando-azure\\wa-api-ta-azure-02\\wa-api-ta-azure-02.csproj",
+      "projectUniqueName": "C:\\ta-treinando-azure\\wa-api-ta-sbra-01\\wa-api-ta-azure-02.csproj",
       "projectName": "wa-api-ta-azure-02",
-      "projectPath": "c:\\ta-treinando-azure\\wa-api-ta-azure-02\\wa-api-ta-azure-02.csproj",
+      "projectPath": "C:\\ta-treinando-azure\\wa-api-ta-sbra-01\\wa-api-ta-azure-02.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "c:\\ta-treinando-azure\\wa-api-ta-azure-02\\obj\\",
+      "outputPath": "C:\\ta-treinando-azure\\wa-api-ta-sbra-01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

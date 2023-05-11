@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8tk4N/a1xvLZbNNIGp4uvz9OlwBk1pRHyb7DGWkdg3GDFypiyD8AwT6MCxQfdGmD+YyTZ7BsHNtAT5/oM4Bbuw==",
+  "dgSpecHash": "xcPewK536/K4OyVhHYhbKIWDKXrIyRFeN0N5p5SWQmv/WUVblVXcay3zJgvectf1emrz+ABgXgKFbRTd6trBIA==",
   "success": true,
-  "projectFilePath": "C:\\ta-treinando-azure\\wa-api-ta-azure-02\\wa-api-ta-azure-02.csproj",
+  "projectFilePath": "C:\\ta-treinando-azure\\wa-api-ta-sbra-01\\wa-api-ta-azure-02.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.32.0\\azure.core.1.32.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.core.amqp\\1.3.0\\azure.core.amqp.1.3.0.nupkg.sha512",
