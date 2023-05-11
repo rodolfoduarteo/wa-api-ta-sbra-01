@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'WA-API-TA-SBRA-01'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C6BE03C1623149758E7B034EF3615AAF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C49BC6A0906245BE972BFA939D66EA90 }}
           package: .
